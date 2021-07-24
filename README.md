@@ -18,7 +18,7 @@
 ## 比賽技巧簡述
 - VGG 風格的深度學習模型（[參考研究](http://cs231n.stanford.edu/reports/2016/pdfs/257_Report.pdf)）
 - 多種資料增強，包含：scale、rotate、RGB shift、Gaussian blur 等等
-- 特殊資料增強：引入多項外部開源資料集，進行**中文手寫影像合成**，將原資料集的空白背景與手寫圖片或印刷體合成（請參考 [教學]()）
+- 特殊資料增強：引入多項外部開源資料集，進行**中文手寫影像合成**，將原資料集的空白背景與手寫圖片或印刷體合成（請參考 [教學](https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/make_handwriting_image_tutorial.ipynb)）
   - 手寫圖片：[AI Free Team 繁體中文手寫資料集](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset)
   - 手寫圖片：[kirosc/chinese-calligraphy-dataset](https://github.com/kirosc/chinese-calligraphy-dataset/)
   - 手寫圖片：[kmnist](http://codh.rois.ac.jp/kmnist/)
