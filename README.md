@@ -3,6 +3,8 @@
 - 競賽網址：https://tbrain.trendmicro.com.tw/Competitions/Details/14
 - 競賽簡述：本次競賽提供參賽者手寫中文字圖檔，期望透過深度學習自動辨識圖片中的文字，以大幅降低人力處理重複性作業的成本。
 
+![prediction demo](demo.png)
+
 ## 參賽成績
 - Team: StarRingChild
   - 隊員名單：[冠豪](https://github.com/KuanHaoHuang/)、冠廷、銘翔、彥庭
