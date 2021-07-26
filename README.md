@@ -17,6 +17,8 @@
 - inference_test.ipynb ([Google Colab 開啟](https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/inference_test.ipynb)): 以測試集資料比較隊伍內不同模型成效
 - images 資料夾內圖片僅是教學示範使用，並非真實競賽資料，原始資料請洽詢 [主辦單位](https://tbrain.trendmicro.com.tw/Competitions/Details/14)
 
+## [部落格文章（競賽心得、得獎者技巧筆記、手寫圖片合成教學）](https://haosquare.com/tbrain-esun-handwriting-recognition/)
+
 ## 比賽技巧簡述
 - VGG 風格的深度學習模型（[參考研究](http://cs231n.stanford.edu/reports/2016/pdfs/257_Report.pdf)）
 - 多種資料增強，包含：scale、rotate、RGB shift、Gaussian blur 等等
