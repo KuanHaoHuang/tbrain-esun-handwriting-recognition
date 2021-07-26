@@ -7,7 +7,7 @@
 
 ## 參賽成績
 - Team: StarRingChild
-  - 隊員名單：[冠豪](https://github.com/KuanHaoHuang/)、冠廷、銘翔、彥庭
+  - 隊員名單：[冠豪](https://github.com/KuanHaoHuang/)、[冠廷](https://github.com/alexlautw9527)、[銘翔](https://github.com/kuo23)、[彥庭](https://github.com/SuYenTing/)
 - Rank: 20th / 468 teams (Top 4%)
 - Macro-Average F1-score: 0.9311
 
@@ -31,4 +31,5 @@
 - 承上，刻意加入不屬於預測目標（競賽規定之 800 字）的其他中文字合成圖片，增加對「其他類別」（"isnull"）的預測準確率
 - 部分訓練資料手動修改標籤錯誤
 - 隊伍協作：ResNet 與 VGG 兩種模型輸出的簡單平均 Ensemble
+- Python Flask + Google Cloud 部署 API（[Flask 程式碼](https://github.com/SuYenTing/esun_2021_ai_competition)）
   
