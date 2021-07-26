@@ -12,9 +12,9 @@
 - Macro-Average F1-score: 0.9311
 
 ## Git Repo 說明
-- make_handwriting_image_tutorial.ipynb ([Google Colab 開啟](https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/make_handwriting_image_tutorial.ipynb)): 合成手寫圖片教學
-- train_model.ipynb ([Google Colab 開啟](https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/train_model.ipynb)): 主要模型訓練流程
-- inference_test.ipynb ([Google Colab 開啟](https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/inference_test.ipynb)): 以測試集資料比較隊伍內不同模型成效
+- make_handwriting_image_tutorial.ipynb <a href="https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/make_handwriting_image_tutorial.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: 合成手寫圖片教學
+- train_model.ipynb <a href="https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/train_model.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: 主要模型訓練流程
+- inference_test.ipynb <a href="https://colab.research.google.com/github/KuanHaoHuang/tbrain-esun-handwriting-recognition/blob/main/inference_test.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>: 以測試集資料比較隊伍內不同模型成效
 - images 資料夾內圖片僅是教學示範使用，並非真實競賽資料，原始資料請洽詢 [主辦單位](https://tbrain.trendmicro.com.tw/Competitions/Details/14)
 
 ## [部落格文章（競賽心得、得獎者技巧筆記、手寫圖片合成教學）](https://haosquare.com/tbrain-esun-handwriting-recognition/)
